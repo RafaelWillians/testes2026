@@ -1,2 +1,2 @@
-# Teste 2026 - hello world
+# Teste 2026 - hello
 teste 2026
